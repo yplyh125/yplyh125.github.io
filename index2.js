@@ -1,6 +1,6 @@
 
 $(document).ready(function(){
-	$.getJSON("index1.json",function(data){
+	$.getJSON("index2.json",function(data){
 		
 		//할 일 처리
 		let member_data="";
